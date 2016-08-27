@@ -19,7 +19,7 @@
 	"manifestUrl": "https://subash48.github.io/testnw/package.json",
     "packages": {
         "win": {
-           "url": "https://subash48.github.io/testnw/testnw.zip"
+           "url": "https://subash48.github.io/testnw/testnw.nw"
         }
     }
 }
